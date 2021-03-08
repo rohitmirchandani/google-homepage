@@ -29,7 +29,7 @@ html,body{
 #logo{
 	display: block;
 	margin:auto;
-	margin-top:18%
+	margin-top:5%
 }
 #searchbox{
 	display: block;
@@ -73,6 +73,9 @@ footer *{
 a{
 	text-decoration: none;
 	color:black;
+}
+a:hover{
+	text-decoration:underline;
 }
 #signinbutton{
 	border-color: transparent;
